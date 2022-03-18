@@ -5,8 +5,8 @@
 1. [General Info](#general-info)
 2. [Description](#description)
 3. [Technologies](#technologies)
-4. [Installation](#installation)
-5. [Usage](#usage)
+4. [Usage](#usage)
+5. [Customizing](#customizing)
 6. [Collaboration](#collaboration)
 7. [Know Bugs](#know_bugs)
 8. [License](#license)
@@ -34,7 +34,7 @@ Project created with:
 
 ## Usage
 
-To run this application follow this link: https://claudiovarzi.github.io/my-counter/, or:
+To run this application follow this link: https://claudiovarzi.github.io/company-portfolio/, or:
 
 - Clone this repository to your desktop.
 - Navigate to the top level of the directory.
